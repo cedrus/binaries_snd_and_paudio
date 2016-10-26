@@ -23,6 +23,10 @@
 ** and at http://www.mega-nerd.com/libsndfile/api.html.
 */
 
+/*
+v 1.0.24
+*/
+
 #ifndef SNDFILE_H
 #define SNDFILE_H
 
